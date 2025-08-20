@@ -1,0 +1,1 @@
+<?php /* handled in index router */ 
